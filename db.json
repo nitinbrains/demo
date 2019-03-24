@@ -19,6 +19,7 @@
             "description": "Meet the Samsung Galaxy On 8 - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
             "thumbnailUrl": "https://rukminim1.flixcart.com/image/312/312/jk1grrk0/mobile/q/c/e/samsung-galaxy-on8-sm-j810gzkfins-original-imaf7h6xgeug6f9h.jpeg?q=70",
             "brand": "samsung",
+            "isSmartphone": true,
             "rating": 4
         },
         {
@@ -29,6 +30,7 @@
             "description": "Panasonic Eluga Ray - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
             "thumbnailUrl": "https://rukminim1.flixcart.com/image/312/312/j8lxyfk0/mobile/p/z/j/panasonic-eluga-ray-700-eb-90s55er7n-original-imaeyheyybbcvapu.jpeg?q=70",
             "brand": "panasonic",
+            "isSmartphone": true,
             "rating": 3
         },
         {
@@ -39,6 +41,7 @@
             "description": "Honor 7A - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
             "thumbnailUrl": "https://rukminim1.flixcart.com/image/312/312/jhgl5e80/mobile/g/h/x/honor-7a-v100r001-aum-al20-original-imaf5h4amdhbzxtz.jpeg?q=70",
             "brand": "honor",
+            "isSmartphone": true,
             "rating": 3
         },
         {
@@ -49,6 +52,7 @@
             "description": "Asus Zenfone Max - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
             "thumbnailUrl": "https://rukminim1.flixcart.com/image/312/312/jh80ia80/mobile/u/b/p/asus-zenfone-max-pro-m1-zb601kl-4a010in-zb601kl-4a020in-original-imaf5ab8qv2qusfu.jpeg?q=70",
             "brand": "asus",
+            "isSmartphone": true,
             "rating": 3
         },
         {
@@ -59,6 +63,7 @@
             "description": "Honor 9 N - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
             "thumbnailUrl": "https://rukminim1.flixcart.com/image/312/312/jjylw280/mobile/j/d/g/honor-9n-lld-al20-original-imaf6tunxhds8dhv.jpeg?q=70",
             "brand": "honor",
+            "isSmartphone": true,
             "rating": 4
         },
           {
@@ -69,8 +74,65 @@
             "description": "Lenovo IdeaPad - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
             "thumbnailUrl": "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/4/c/t/lenovo-na-laptop-original-imaf9ry4vqyh8fhv.jpeg?q=70",
             "brand": "lenovo",
+            "isLaptop": true,
+            "rating": 5
+        },
+          {
+            
+            "id": 8,
+            "title": "Dell Pad (8 GB RAM)",
+            "price":48000,
+            "description": "DellPad - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/z/3/dell-na-laptop-original-imaf9hu6z8yczyqv.jpeg?q=70",
+            "brand": "dell",
+            "isLaptop": true,
+            "rating": 5
+        },
+        {
+            
+            "id": 9,
+            "title": "Dell sono (8 GB RAM)",
+            "price":50000,
+            "description": "Dell sono - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/x/z/a/lenovo-na-laptop-original-imaf9hu69a6apzru.jpeg?q=70",
+            "brand": "dell",
+            "isLaptop": true,
+            "rating": 3
+        },
+        {
+            
+            "id": 10,
+            "title": "Dell Hilltop Pad (8 GB RAM)",
+            "price":46999,
+            "description": "Dell Hilltop - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/r/s/u/dell-na-laptop-original-imaf9ph4fbjfhzey.jpeg?q=70",
+            "brand": "dell",
+            "isLaptop": true,
             "rating": 4
-        }
+        },
+         {
+            
+            "id": 11,
+            "title": "Dell Systro Pad (8 GB RAM)",
+            "price":48000,
+            "description": "Dell Systro - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/z/3/dell-na-laptop-original-imaf9hu6z8yczyqv.jpeg?q=70",
+            "brand": "dell",
+            "isLaptop": true,
+            "rating": 4
+        },
+         {
+            
+            "id": 12,
+            "title": "Lenovo Pasha Pad (4 GB RAM)",
+            "price":34000,
+            "description": "Lenovo Pasha - the elegantly designed smartphone that comes with a powerful Snapdragon 636 processor, which outperforms its predecessor by up to 40%. From capturing enchanting pictures with the dual rear-camera setup and an amazing 20 MP front camera",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/g/n/5/lenovo-na-laptop-original-imaf9hu6uttwtdyy.jpeg?q=70",
+            "brand": "dell",
+            "isLaptop": true,
+            "rating": 4
+        },
+        
 
     ]
 }
