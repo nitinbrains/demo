@@ -4,7 +4,7 @@
             
             "id": 1,
             "productName": "Iced Tea",
-            "unitName": "xyz"
+            "unitName": "xyz",
             "brand": "Mc Donald",
             "category": "Beverages",
             "stockLevel": 10
@@ -13,7 +13,7 @@
             
             "id": 2,
             "productName": "Frappy Chill",
-            "unitName": "xyz"
+            "unitName": "xyz",
             "brand": "CCD",
             "category": "Beverages",
             "stockLevel": 0
@@ -22,7 +22,7 @@
             
             "id": 3,
             "productName": "Pepsi Black",
-            "unitName": "xyz"
+            "unitName": "xyz",
             "brand": "Pepsico",
             "category": "Beverages",
             "stockLevel": 5
@@ -31,7 +31,7 @@
             
             "id": 4,
             "productName": "Bluckachino",
-            "unitName": "xyz"
+            "unitName": "xyz",
             "brand": "Barista Coffee",
             "category": "Beverages",
             "stockLevel": 10
