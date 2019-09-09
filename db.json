@@ -7,6 +7,9 @@
             "unitName": "xyz",
             "brand": "Mc Donald",
             "category": "Beverages",
+            "sku":"ADX987C2",
+            "price":"1056",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
             "stockLevel": 10
         },
          {
@@ -16,6 +19,9 @@
             "unitName": "xyz",
             "brand": "CCD",
             "category": "Beverages",
+            "sku":"ADX987C2",
+            "price":"1056",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
             "stockLevel": 0
         },
          {
@@ -25,6 +31,9 @@
             "unitName": "xyz",
             "brand": "Pepsico",
             "category": "Beverages",
+            "sku":"ADX987C2",
+            "price":"1056",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
             "stockLevel": 5
         },
         {
@@ -34,6 +43,9 @@
             "unitName": "xyz",
             "brand": "Barista Coffee",
             "category": "Beverages",
+            "sku":"ADX987C2",
+            "price":"1056",
+            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
             "stockLevel": 10
         }
        
