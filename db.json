@@ -6,8 +6,8 @@
 "categoryID": -1,
 "categoryName": "",
 "defaultPrice": 150,
- "dealerPrice": 100,
- "sku":"ADX100",
+"dealerPrice": 100,
+"sku":"ADX100",
 "inventory": 54,
 "inventoryCost":200,
 "lowStockAlertQuantity": "",
@@ -19,14 +19,14 @@
 "variantID": 9,
 "variantName": ""
         },
-                {
+        {
 "brandID": -1,
 "brandName": "",
 "categoryID": -1,
 "categoryName": "",
 "defaultPrice": 180,
-                     "dealerPrice": 100,
- "sku":"ADX100",
+"dealerPrice": 100,
+"sku":"ADX100",
 "inventory": 54,
 "inventoryCost":200,
 "lowStockAlertQuantity": "",
@@ -44,8 +44,8 @@
 "categoryID": -1,
 "categoryName": "",
 "defaultPrice": 150,
- "dealerPrice": 100,
- "sku":"ADX100",
+"dealerPrice": 100,
+"sku":"ADX100",
 "inventory": 54,
 "inventoryCost":200,
 "lowStockAlertQuantity": "",
@@ -57,14 +57,14 @@
 "variantID": 9,
 "variantName": ""
         },
-               {
+        {
 "brandID": -1,
 "brandName": "",
 "categoryID": -1,
 "categoryName": "",
 "defaultPrice": 150,
- "dealerPrice": 80,
- "sku":"ADX100",
+"dealerPrice": 80,
+"sku":"ADX100",
 "inventory": 54,
 "inventoryCost":200,
 "lowStockAlertQuantity": "",
@@ -75,7 +75,6 @@
 "unitName": "Kilogram",
 "variantID": 9,
 "variantName": ""
-        },
-       
+        }      
     ]
 }
