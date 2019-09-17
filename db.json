@@ -3,7 +3,7 @@
         {
 "brandID": -1,
 "brandName": "",
-"categoryID": -1
+"categoryID": -1,
 "categoryName": "",
 "defaultPrice": 150,
  "dealerPrice": 100,
@@ -22,7 +22,7 @@
                 {
 "brandID": -1,
 "brandName": "",
-"categoryID": -1
+"categoryID": -1,
 "categoryName": "",
 "defaultPrice": 180,
                      "dealerPrice": 100,
@@ -41,7 +41,7 @@
         {
 "brandID": -1,
 "brandName": "",
-"categoryID": -1
+"categoryID": -1,
 "categoryName": "",
 "defaultPrice": 150,
  "dealerPrice": 100,
@@ -60,7 +60,7 @@
                {
 "brandID": -1,
 "brandName": "",
-"categoryID": -1
+"categoryID": -1,
 "categoryName": "",
 "defaultPrice": 150,
  "dealerPrice": 80,
