@@ -1,53 +1,81 @@
 {
     "data":[
         {
-            
-            "id": 1,
-            "productName": "Iced Tea",
-            "unitName": "xyz",
-            "brand": "Mc Donald",
-            "category": "Beverages",
-            "sku":"ADX987C2",
-            "price":"1056",
-            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
-            "stockLevel": 10
+"brandID": -1,
+"brandName": "",
+"categoryID": -1
+"categoryName": "",
+"defaultPrice": 150,
+ "dealerPrice": 100,
+ "sku":"ADX100",
+"inventory": 54,
+"inventoryCost":200,
+"lowStockAlertQuantity": "",
+"price": 50,
+"productID": 3,
+"productName": "product in kg",
+"soldIn": 2,
+"unitName": "Kilogram",
+"variantID": 9,
+"variantName": ""
         },
-         {
-            
-            "id": 2,
-            "productName": "Frappy Chill",
-            "unitName": "xyz",
-            "brand": "CCD",
-            "category": "Beverages",
-            "sku":"ADX987C2",
-            "price":"1056",
-            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
-            "stockLevel": 0
-        },
-         {
-            
-            "id": 3,
-            "productName": "Pepsi Black",
-            "unitName": "xyz",
-            "brand": "Pepsico",
-            "category": "Beverages",
-            "sku":"ADX987C2",
-            "price":"1056",
-            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
-            "stockLevel": 5
+                {
+"brandID": -1,
+"brandName": "",
+"categoryID": -1
+"categoryName": "",
+"defaultPrice": 180,
+                     "dealerPrice": 100,
+ "sku":"ADX100",
+"inventory": 54,
+"inventoryCost":200,
+"lowStockAlertQuantity": "",
+"price": 150,
+"productID": 6,
+"productName": "product in kg",
+"soldIn": 2,
+"unitName": "Kilogram",
+"variantID": 9,
+"variantName": ""
         },
         {
-            
-            "id": 4,
-            "productName": "Bizz Coffee",
-            "unitName": "xyz",
-            "brand": "Barista Coffee",
-            "category": "Beverages",
-            "sku":"ADX987C2",
-            "price":"1056",
-            "thumbnailUrl": "https://rukminim1.flixcart.com/image/580/696/jp02t8w0/t-shirt/r/y/5/s-charcoal-boat-neck-try-this-original-imafbcecgu4ppc9h.jpeg?q=50",
-            "stockLevel": 10
-        }
+"brandID": -1,
+"brandName": "",
+"categoryID": -1
+"categoryName": "",
+"defaultPrice": 150,
+ "dealerPrice": 100,
+ "sku":"ADX100",
+"inventory": 54,
+"inventoryCost":200,
+"lowStockAlertQuantity": "",
+"price": 150,
+"productID": 78,
+"productName": "product in kg",
+"soldIn": 2,
+"unitName": "Kilogram",
+"variantID": 9,
+"variantName": ""
+        },
+               {
+"brandID": -1,
+"brandName": "",
+"categoryID": -1
+"categoryName": "",
+"defaultPrice": 150,
+ "dealerPrice": 80,
+ "sku":"ADX100",
+"inventory": 54,
+"inventoryCost":200,
+"lowStockAlertQuantity": "",
+"price": 150,
+"productID": 9,
+"productName": "product in kg",
+"soldIn": 2,
+"unitName": "Kilogram",
+"variantID": 9,
+"variantName": ""
+        },
        
     ]
 }
