@@ -1,80 +1,52 @@
 {
     "data":[
         {
-"brandID": -1,
-"brandName": "",
-"categoryID": -1,
-"categoryName": "",
-"defaultPrice": 150,
-"dealerPrice": 100,
-"sku":"ADX100",
-"inventory": 54,
-"inventoryCost":200,
-"lowStockAlertQuantity": "",
-"price": 50,
-"productID": 3,
-"productName": "product in kg",
-"soldIn": 2,
-"unitName": "Kilogram",
-"variantID": 9,
-"variantName": ""
+"baseUnit":"Piece",
+"conversionFactor":1,
+"name":"Piece",
+"toUnit":1
         },
         {
-"brandID": -1,
-"brandName": "",
-"categoryID": -1,
-"categoryName": "",
-"defaultPrice": 180,
-"dealerPrice": 130,
-"sku":"ADX100",
-"inventory": 54,
-"inventoryCost":200,
-"lowStockAlertQuantity": "",
-"price": 150,
-"productID": 6,
-"productName": "Aloo Chat",
-"soldIn": 2,
-"unitName": "Kilogram",
-"variantID": 9,
-"variantName": ""
+"baseUnit":"Kilogram",
+"conversionFactor":1,
+"name":"Kilogram",
+"toUnit":2
         },
         {
-"brandID": -1,
-"brandName": "",
-"categoryID": -1,
-"categoryName": "",
-"defaultPrice": 150,
-"dealerPrice": 80,
-"sku":"ADX100",
-"inventory": 54,
-"inventoryCost":200,
-"lowStockAlertQuantity": "",
-"price": 150,
-"productID": 78,
-"productName": "Chakki Atta",
-"soldIn": 2,
-"unitName": "Kilogram",
-"variantID": 9,
-"variantName": ""
+"baseUnit":"Litre",
+"conversionFactor":1,
+"name":"Litre",
+"toUnit":3
         },
         {
-"brandID": -1,
-"brandName": "",
-"categoryID": -1,
-"categoryName": "",
-"defaultPrice": 150,
-"dealerPrice": 50,
-"sku":"ADX100",
-"inventory": 54,
-"inventoryCost":200,
-"lowStockAlertQuantity": "",
-"price": 150,
-"productID": 9,
-"productName": "Basmati Rice",
-"soldIn": 2,
-"unitName": "Kilogram",
-"variantID": 9,
-"variantName": ""
-        }      
+"baseUnit":"Kilogram",
+"conversionFactor":0.001,
+"name":"Gram",
+"toUnit":2
+        },    
+                {
+"baseUnit":"Litre",
+"conversionFactor":0.001,
+"name":"Mililitre",
+"toUnit":3
+        },
+        {
+"baseUnit":"Metre",
+"conversionFactor":1,
+"name":"Metre",
+"toUnit":6
+        },
+        {
+"baseUnit":"Metre",
+"conversionFactor":1,
+"name":"Centimetre",
+"toUnit":6
+        },
+        {
+"baseUnit":"Piece",
+"conversionFactor":12,
+"name":"Dozen",
+"toUnit":1
+        },     
     ]
 }
